@@ -21,7 +21,7 @@ namespace Git
                     a[i, j] = int.Parse(Console.ReadLine());
                 }
             }
-            Console.WriteLine("Mảng vừa mới nhập là: ");
+            Console.WriteLine("Mảng vừa mới nhập: ");
             XuatMang(a);
             Console.WriteLine("Chưa sắp xếp: ");
             MangSX(a, m, n, b);
