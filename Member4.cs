@@ -8,7 +8,8 @@ namespace Member4
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World1!");
-            Console.WriteLine("Hello Hi");
+            Console.WriteLine("Hello H1");
+            Console.WriteLine("Hello H2");
 
         }
     }
