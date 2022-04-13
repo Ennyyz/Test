@@ -4,6 +4,7 @@ namespace bai_1
 {
     class Program
     {
+        //Tìm maxmin
         static void Main(string[] args)
         {
             Console.Write("Nhap so ptu: ");
