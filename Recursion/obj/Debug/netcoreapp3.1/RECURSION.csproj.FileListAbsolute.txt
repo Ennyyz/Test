@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\RECURSION\obj\Debug\netcoreapp3.1\RECURSION.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\RECURSION\obj\Debug\netcoreapp3.1\RECURSION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\RECURSION\obj\Debug\netcoreapp3.1\RECURSION.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\RECURSION\obj\Debug\netcoreapp3.1\RECURSION.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\RECURSION\obj\Debug\netcoreapp3.1\RECURSION.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RECURSION\bin\Debug\netcoreapp3.1\RECURSION.exe
+C:\Users\ASUS\source\repos\RECURSION\bin\Debug\netcoreapp3.1\RECURSION.deps.json
+C:\Users\ASUS\source\repos\RECURSION\bin\Debug\netcoreapp3.1\RECURSION.runtimeconfig.json
+C:\Users\ASUS\source\repos\RECURSION\bin\Debug\netcoreapp3.1\RECURSION.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\RECURSION\bin\Debug\netcoreapp3.1\RECURSION.dll
+C:\Users\ASUS\source\repos\RECURSION\bin\Debug\netcoreapp3.1\RECURSION.pdb
+C:\Users\ASUS\source\repos\RECURSION\obj\Debug\netcoreapp3.1\RECURSION.dll
+C:\Users\ASUS\source\repos\RECURSION\obj\Debug\netcoreapp3.1\RECURSION.pdb
+C:\Users\ASUS\source\repos\RECURSION\obj\Debug\netcoreapp3.1\RECURSION.genruntimeconfig.cache
