@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\obj\Debug\netcoreapp3.1\TinhDaNhiem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\obj\Debug\netcoreapp3.1\TinhDaNhiem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\obj\Debug\netcoreapp3.1\TinhDaNhiem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\obj\Debug\netcoreapp3.1\TinhDaNhiem.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\obj\Debug\netcoreapp3.1\TinhDaNhiem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\bin\Debug\netcoreapp3.1\TinhDaNhiem.exe
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\bin\Debug\netcoreapp3.1\TinhDaNhiem.deps.json
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\bin\Debug\netcoreapp3.1\TinhDaNhiem.runtimeconfig.json
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\bin\Debug\netcoreapp3.1\TinhDaNhiem.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\bin\Debug\netcoreapp3.1\TinhDaNhiem.dll
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\bin\Debug\netcoreapp3.1\TinhDaNhiem.pdb
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\obj\Debug\netcoreapp3.1\TinhDaNhiem.dll
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\obj\Debug\netcoreapp3.1\TinhDaNhiem.pdb
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\TinhDaNhiem\obj\Debug\netcoreapp3.1\TinhDaNhiem.genruntimeconfig.cache
