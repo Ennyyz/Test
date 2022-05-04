@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\bin\Debug\netcoreapp3.1\NapChongToanTu.exe
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\bin\Debug\netcoreapp3.1\NapChongToanTu.deps.json
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\bin\Debug\netcoreapp3.1\NapChongToanTu.runtimeconfig.json
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\bin\Debug\netcoreapp3.1\NapChongToanTu.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\bin\Debug\netcoreapp3.1\NapChongToanTu.dll
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\bin\Debug\netcoreapp3.1\NapChongToanTu.pdb
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\obj\Debug\netcoreapp3.1\NapChongToanTu.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\obj\Debug\netcoreapp3.1\NapChongToanTu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\obj\Debug\netcoreapp3.1\NapChongToanTu.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\obj\Debug\netcoreapp3.1\NapChongToanTu.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\obj\Debug\netcoreapp3.1\NapChongToanTu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\obj\Debug\netcoreapp3.1\NapChongToanTu.dll
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\obj\Debug\netcoreapp3.1\NapChongToanTu.pdb
+C:\Users\ASUS\Desktop\ARI\HuongDoiTuong\NapChongToanTu\obj\Debug\netcoreapp3.1\NapChongToanTu.genruntimeconfig.cache
