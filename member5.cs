@@ -5,6 +5,9 @@ namespace bai_1
     class Program
     {
         //Tìm maxmin
+        //Tìm maxmin
+        //aa
+
         static void Main(string[] args)
         {
             Console.Write("Nhap so ptu: ");
